@@ -36,7 +36,7 @@ timezone: Asia/Kuala_Lumpur # see https://en.wikipedia.org/wiki/List_of_tz_datab
 author:
   type      : person # "person" (default), "organization"
   name      : Kevin Loo
-  url       : https://kevin-loo.github.io
+  url       : 
   avatar    : # path or url of avatar image (square)
   bio       : #
   email     : kevloo1494@gmail.com
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: kevin-loo/kevin-loo.github.io #user_name/repo_name
+repository: #user_name/repo_name
 repository_tree: master
 
 
