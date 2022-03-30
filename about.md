@@ -31,3 +31,6 @@ Hi there! I'm a Ph.D. candidate at [Yau Mathematical Sciences Centre (YMSC)](htt
 Outside of physics and mathematics, I enjoy food, music, and learning cultures around the world.
 
 Check out my résumé on [inspirehep](https://inspirehep.net/authors/1873043).
+
+<!-- {% highlight javascript %}
+{% endhighlight %} -->
