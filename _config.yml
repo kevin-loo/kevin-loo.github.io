@@ -19,10 +19,10 @@
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
+baseurl : / # does not include hostname
 title   : Kevin Loo
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Kevin Loo's personal website.
 
 
 ## => Language and Timezone
@@ -34,11 +34,11 @@ timezone: Asia/Kuala_Lumpur # see https://en.wikipedia.org/wiki/List_of_tz_datab
 ## => Author and Social
 ##############################
 author:
-  type      : person # "person" (default), "organization"
+  type      : # "person" (default), "organization"
   name      : Kevin Loo
   url       : https://kevin-loo.github.io/
   avatar    : # path or url of avatar image (square)
-  bio       : An avid Ph.D. student.
+  bio       : An avid physicist.
   email     : kevloo1494@gmail.com
   github    : kevin-loo # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
