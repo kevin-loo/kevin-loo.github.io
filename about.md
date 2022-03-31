@@ -39,10 +39,10 @@ Check out my brief résumé on [inspirehep](https://inspirehep.net/authors/18730
 - [Wiki: List of string theory topics](https://en.wikipedia.org/wiki/List_of_string_theory_topics)
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
 
-### Schools
+### Annual Schools
 - [Theoretical Advanced Study Institute in Elementary Particle Physics (TASI)](https://www.colorado.edu/physics/TASI/Program-Overview)
 - [Amsterdam-Brussels-Geneva-Paris Doctoral School](http://www.solvayinstitutes.be/html/doctoral.html)
-- [Les Houches School of Physics (Ecole des Houches)](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-672251.kjsp)
+- [Les Houches School of Physics (École de physique des Houches)](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-672251.kjsp)
 
 ### Blogs
 - [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/)
