@@ -30,24 +30,25 @@ Hi there! I'm a Ph.D. candidate at [Yau Mathematical Sciences Centre (YMSC)](htt
   
 Outside of physics and mathematics, I enjoy food, music, and learning cultures around the world.
 
-Check out my brief résumé on [inspirehep](https://inspirehep.net/authors/1873043).
+A brief academic CV of mine can be viewed on [inspirehep](https://inspirehep.net/authors/1873043).
 
-## Links
-### Encyclopedia
+## LINKS
+### BLOGROLL
+- [4gravitons](https://4gravitons.com/)
+- [Backreaction](http://backreaction.blogspot.com/)
+- [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/)
+- [Preposterous Universe](https://www.preposterousuniverse.com/blog/)
+
+### ENCYCLOPEDIA
+- [nLab](https://ncatlab.org/nlab/show/HomePage)
 - [String Theory Wiki](https://www.stringwiki.org/wiki/String_Theory_Wiki)
 - [Wiki: List of mathematical topics in quantum theory](https://en.wikipedia.org/wiki/List_of_mathematical_topics_in_quantum_theory)
 - [Wiki: List of string theory topics](https://en.wikipedia.org/wiki/List_of_string_theory_topics)
-- [nLab](https://ncatlab.org/nlab/show/HomePage)
 
-### Annual Schools
-- [Theoretical Advanced Study Institute in Elementary Particle Physics (TASI)](https://www.colorado.edu/physics/TASI/Program-Overview)
+### SCHOOLS
 - [Amsterdam-Brussels-Geneva-Paris Doctoral School](http://www.solvayinstitutes.be/html/doctoral.html)
 - [Les Houches School of Physics (École de physique des Houches)](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-672251.kjsp)
-
-### Blogs
-- [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/)
-- [Backreaction](http://backreaction.blogspot.com/)
-
+- [Theoretical Advanced Study Institute in Elementary Particle Physics (TASI)](https://www.colorado.edu/physics/TASI/Program-Overview)
 
 <!-- {% highlight javascript %}
 {% endhighlight %} -->
