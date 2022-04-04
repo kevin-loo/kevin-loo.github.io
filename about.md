@@ -27,10 +27,26 @@ key: page-about
 ---
 
 Hi there! I'm a Ph.D. candidate at [Yau Mathematical Sciences Centre (YMSC)](https://ymsc.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), with major interests in quantum gravity and quantum information theories.
-  
-Outside of physics and mathematics, I enjoy food, music, and learning cultures around the world.
 
-A brief academic CV of mine can be viewed on [inspirehep](https://inspirehep.net/authors/1873043).
+My brief academic CV can be viewed on [inspirehep](https://inspirehep.net/authors/1873043).
+
+## WRITE-UPS & PRESENTATIONS
+### Chern-Simons Theory and Knot Polynomials 
+- for the course Supersymmetry & Supergravity in Autumn 2020
+- Essay, Slides
+- links: [Quantum Theory and Knots: Exploring Fascinating Links Between Apparently Disparate Domains](https://www.cantorsparadise.com/quantum-theory-and-knots-exploring-fascinating-links-between-apparently-disparate-domains-2159e0788e6a)
+
+### Braiding Matrices for Fibonacci Anyons
+- for the course Mathematical Physics in Spring 2021
+- essay, slides
+
+### Calabi-Yau Compactification: A Primer on Calabi-Yau Manifolds
+- for the course Introduction to String Theory in Spring 2021
+- essay
+
+### Memory Effect of Gravity & Infrared Triangle
+- for the course Advanced Topics of Gravity in Spring 2021
+- slides
 
 ## LINKS
 ### BLOGROLL
@@ -38,6 +54,7 @@ A brief academic CV of mine can be viewed on [inspirehep](https://inspirehep.net
 - [Backreaction](http://backreaction.blogspot.com/)
 - [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/)
 - [Preposterous Universe](https://www.preposterousuniverse.com/blog/)
+- [What's new](https://terrytao.wordpress.com/)
 
 ### ENCYCLOPEDIA
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
