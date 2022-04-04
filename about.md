@@ -32,21 +32,27 @@ My brief academic CV can be viewed on [inspirehep](https://inspirehep.net/author
 
 ## WRITE-UPS & PRESENTATIONS
 ### Chern-Simons Theory and Knot Polynomials 
-- for the course Supersymmetry & Supergravity in Autumn 2020
-- Essay, Slides
-- links: [Quantum Theory and Knots: Exploring Fascinating Links Between Apparently Disparate Domains](https://www.cantorsparadise.com/quantum-theory-and-knots-exploring-fascinating-links-between-apparently-disparate-domains-2159e0788e6a)
+- A project for the course Supersymmetry & Supergravity in Autumn 2020.
+- [ESSAY](/mydocs/SUSY & SUGRA_Project_2020.pdf){:.button.button--primary.button--pill}
+[SLIDES](/mydocs/SUSY & SUGRA_Presentation_2020.pdf){:.button.button--primary.button--pill}
+[LINK](https://www.cantorsparadise.com/quantum-theory-and-knots-exploring-fascinating-links-between-apparently-disparate-domains-2159e0788e6a){:.button.button--primary.button--pill}
 
 ### Braiding Matrices for Fibonacci Anyons
-- for the course Mathematical Physics in Spring 2021
-- essay, slides
+- A project for the course Mathematical Physics in Spring 2021.
+- [ESSAY](/mydocs/MP_Project_2021.pdf){:.button.button--primary.button--pill}
+[SLIDES](/mydocs/MP_Presentation_2021.pdf){:.button.button--primary.button--pill}
 
 ### Calabi-Yau Compactification: A Primer on Calabi-Yau Manifolds
-- for the course Introduction to String Theory in Spring 2021
-- essay
+- A project for the course Introduction to String Theory in Spring 2021.
+- [ESSAY](/mydocs/ST_Project_2021.pdf){:.button.button--primary.button--pill}
 
 ### Memory Effect of Gravity & Infrared Triangle
-- for the course Advanced Topics of Gravity in Spring 2021
-- slides
+- A project for the course Advanced Topics of Gravity in Spring 2021.
+- [SLIDES](/mydocs/GR_Presentation_2021.pdf){:.button.button--primary.button--pill}
+
+### Causal Structure & Singularities
+- A short note for the course Advanced Topics of Gravity in Spring 2021.
+- [NOTES](/mydocs/GR_Notes.pdf){:.button.button--primary.button--pill}
 
 ## LINKS
 ### BLOGROLL
