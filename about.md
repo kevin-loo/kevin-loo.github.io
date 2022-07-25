@@ -26,14 +26,14 @@ titles:
 key: page-about
 ---
 
-Hi there! I'm a Ph.D. candidate at [Yau Mathematical Sciences Centre (YMSC)](https://ymsc.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), with major interests in quantum gravity and quantum information theories.
+I'm a Ph.D. candidate at [Yau Mathematical Sciences Centre (YMSC)](https://ymsc.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), with major interests in quantum gravity and quantum information theories.
 
 My brief academic CV can be viewed on [inspirehep](https://inspirehep.net/authors/1873043).
 
 ## WRITE-UPS & PRESENTATIONS
 - An Introduction to Planar AdS_5/CFT_4 Integrability\
   M.Sc. Thesis. A pedagogical introduction to the concepts of integrability and of both sides of the AdS5/CFT4 correspondence.
-  [:pencil: (with minor corrections)](/mydocs/QFFF_MSc_Thesis.pdf){:.button.button--primary.button--pill}
+  [:pencil: (updated with minor corrections)](/mydocs/QFFF_MSc_Thesis.pdf){:.button.button--primary.button--pill}
   [:pencil:](https://imperialcollegelondon.app.box.com/s/nccbofc96z84la582mybzdj3oei13wow){:.button.button--primary.button--pill}
 
 - Chern-Simons Theory and Knot Polynomials\
@@ -67,16 +67,19 @@ My brief academic CV can be viewed on [inspirehep](https://inspirehep.net/author
 - [Preposterous Universe](https://www.preposterousuniverse.com/blog/)
 - [What's new](https://terrytao.wordpress.com/)
 
-### ENCYCLOPEDIA
+### ENCYCLOPAEDIA
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
 - [String Theory Wiki](https://www.stringwiki.org/wiki/String_Theory_Wiki)
 - [Wiki: List of mathematical topics in quantum theory](https://en.wikipedia.org/wiki/List_of_mathematical_topics_in_quantum_theory)
 - [Wiki: List of string theory topics](https://en.wikipedia.org/wiki/List_of_string_theory_topics)
 
-### SCHOOLS
+### SCHOOL
 - [Amsterdam-Brussels-Geneva-Paris Doctoral School](http://www.solvayinstitutes.be/html/doctoral.html)
 - [Les Houches School of Physics (École de physique des Houches)](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-672251.kjsp)
 - [Theoretical Advanced Study Institute in Elementary Particle Physics (TASI)](https://www.colorado.edu/physics/TASI/Program-Overview)
+
+### SEMINAR
+- [Online talks](https://researchseminars.org/)
 
 <!-- {% highlight javascript %}
 {% endhighlight %} -->
