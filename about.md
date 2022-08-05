@@ -78,7 +78,8 @@ My brief academic CV can be viewed on [inspirehep](https://inspirehep.net/author
 - [Les Houches School of Physics (École de physique des Houches)](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-672251.kjsp)
 - [Theoretical Advanced Study Institute in Elementary Particle Physics (TASI)](https://www.colorado.edu/physics/TASI/Program-Overview)
 
-### SEMINAR
+### MISCELLANEOUS
+- [Early career advice](https://www.angelagibney.org/the-ec-by-topic/?fbclid=IwAR2fD0eqVouoHoLvCrwHdyeMq4mdekJXJvPnXeQOEuNLCYBJlqY1GMj9tu8)
 - [Online talks](https://researchseminars.org/)
 
 <!-- {% highlight javascript %}
