@@ -69,9 +69,10 @@ My brief academic CV can be viewed on [inspirehep](https://inspirehep.net/author
 
 ### ENCYCLOPAEDIA
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
-- [String Theory Wiki](https://www.stringwiki.org/wiki/String_Theory_Wiki)
+- [stringwiki](https://www.stringwiki.org/wiki/String_Theory_Wiki)
 - [Wiki: List of mathematical topics in quantum theory](https://en.wikipedia.org/wiki/List_of_mathematical_topics_in_quantum_theory)
 - [Wiki: List of string theory topics](https://en.wikipedia.org/wiki/List_of_string_theory_topics)
+- [Wiki: string theory category](https://en.wikipedia.org/wiki/Category:String_theory)
 
 ### SCHOOL
 - [Amsterdam-Brussels-Geneva-Paris Doctoral School](http://www.solvayinstitutes.be/html/doctoral.html)
