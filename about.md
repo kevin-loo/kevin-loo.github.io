@@ -82,7 +82,8 @@ My brief academic CV can be viewed on [inspirehep](https://inspirehep.net/author
 
 ### MISCELLANEOUS
 - [Early career advice](https://www.angelagibney.org/the-ec-by-topic/?fbcli (PITP)d=IwAR2fD0eqVouoHoLvCrwHdyeMq4mdekJXJvPnXeQOEuNLCYBJlqY1GMj9tu8)
-- [Online talks](https://researchseminars.org/)
+- [Conferences](https://www.desy.de/~bargheer/conference-calendar/index.html)
+- [Seminars](https://researchseminars.org/)
 
 <!-- {% highlight javascript %}
 {% endhighlight %} -->
